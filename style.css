@@ -3,13 +3,18 @@ h1 {
  }
 
 body {
-    background-color: aqua;
-    
+
+    color: aliceblue;
+    background-color: darkblue;
+    margin: auto;
+    width: 60%;
+    border: 3px solid black;
+
 }
 
 p {
-    color: aliceblue;
-    background-color: darkblue;
+
+
 }
 .titlebar{
     border: 3px solid blue;
