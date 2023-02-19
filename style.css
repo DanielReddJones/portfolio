@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+ }
+
+body {
+    background-color: aqua;
+    
+}
+
+p {
+    color: aliceblue;
+    background-color: darkblue;
+}
+.titlebar{
+    border: 3px solid blue;
+    padding: 10px;
+    background-color: darkblue;
+}
+
+button{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    align-content: center;
+}
+
+html{
+    background: url(Deus_Ex.webp) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
