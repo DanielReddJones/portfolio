@@ -9,28 +9,22 @@ body {
     margin: auto;
     width: 60%;
     border: 3px solid black;
-
+    border-radius: 25px;
 }
 
 p {
-
+margin-left: 25px;
 
 }
 .titlebar{
-    border: 3px solid blue;
-    padding: 10px;
+    padding: 5px;
     background-color: darkblue;
 }
 
-button{
-    position: relative;
-    top: 50%;
-    left: 50%;
-    align-content: center;
-}
+
 
 html{
-    background: url(Deus_Ex.webp) no-repeat center center fixed; 
+    background: url(rain.jpeg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
