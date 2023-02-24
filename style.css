@@ -17,14 +17,15 @@ margin-left: 25px;
 
 }
 .titlebar{
-    padding: 5px;
+    padding: 15px;
     background-color: darkblue;
+    border-radius: 25px;
 }
 
 
 
 html{
-    background: url(rain.jpeg) no-repeat center center fixed; 
+    background: url(pics/rain.jpeg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
