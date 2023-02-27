@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(187, 194, 201);
+    color: rgb(54, 55, 56);
  }
 
 body {
@@ -9,16 +9,16 @@ body {
 	
     margin: auto;
     width: 60%;
-    border: 3px solid black;
-    border-radius: 25px;
+   
 	
 }
 
-p {
-	
-margin-left: 25px;
-
+.content{
+	background-color: #899599d5;
+	border-radius: 25px;
+	margin: auto;
 }
+
 .titlebar{
     padding: 15px;
     
@@ -41,6 +41,7 @@ margin-left: 25px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #e1e2ed;
 }
+
 .myButton:hover {
 	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
 	background-color:#bab1ba;
